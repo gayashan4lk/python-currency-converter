@@ -1,10 +1,9 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: n_o_p
-- text: nopitc
-- text: n_of_people_inc
-- text: number_of_people
+- text: 2
+- text: 3
+- text: 4
 files:
 - name: main.py
   visible: true
@@ -12,7 +11,7 @@ files:
     #  You can experiment here, it won’t be checked
 
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/6874#comment
+feedback_link: https://hyperskill.org/learn/step/5905#comment
 status: Solved
 record: -1
 local_check: false
