@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# read test.txt'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8146#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: "Sun, 30 Apr 2023 12:47:24 UTC"
+record: -1
+submission_language: python3
